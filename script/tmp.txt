@@ -1,0 +1,5 @@
+Title: prueba
+date: 19/10/2020
+tags: pajaro
+category: animales
+Esto es una prueba del despliegue automatico
