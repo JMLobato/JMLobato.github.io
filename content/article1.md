@@ -21,5 +21,5 @@ Los pelícanos tienen un plumaje en su mayor parte de color claro, con la excepc
 
 Las disección anatómica de dos pelícanos pardos en 1939 mostraron que los pelícanos tienen una red de sacos de aire debajo de la piel situados a través de la superficie ventral, la garganta, el pecho y la parte inferior de las alas, y tienen también sacos de aire en los huesos. Los sacos de aire están conectados a las vías aéreas del sistema respiratorio y el pelícano puede mantenerlos inflados cerrando la glotis, aunque no está claro cómo se inflan. Los sacos de aire sirven además para mantenerlos flotando fácilmente en el agua, y también puede amortiguar el impacto del cuerpo contra la superficie del agua cuando se sumergen lanzándose en picado para capturar peces.55​ Los sacos aéreos superficiales también pueden ayudar a redondear el contorno del cuerpo (especialmente en el abdomen, donde pueden originarse superficies protuberantes causadas por las vísceras que cambian de tamaño y posición) para permitir que las plumas superpuestas formen un aislamiento térmico más efectivo y también para mantener las plumas en posición para una buena aerodinámica. 
 
-[Anterior] <{filename}/inicio.md>
-[Siguiente] <{filename}/article2.md>
+[Anterior]({filename}/inicio.md)
+[Siguiente]({filename}/article2.md)

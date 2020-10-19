@@ -18,6 +18,6 @@ Los peces grandes los atrapan con la punta del pico y luego los lanzan al aire p
 
 Aunque es muy poco habitual que se alimenten de otras aves, se han observado grandes pelícanos comunes tragándose palomas en el St. James's Park de Londres; según la opinión del ente Parques Reales de Londres esta inusual alimentación es más probable en el caso de pelícanos en cautividad que viven en un medio ambiente semiurbano y están en contacto próximo y frecuente con seres humanos.68​ Sin embargo, se ha comprobado que en la Provincia Occidental del Cabo (Sudáfrica) la misma especie comía polluelos vivos de alcatraces de El Cabo en la pequeña isla Malgas, así como cormoranes de El Cabo, cormoranes coronados, gaviotas cocineras, charranes piquigualdos y pingüinos de El Cabo y en la isla Dassen y otros lugares. También se ha reportado que los pelícanos pardos se alimentan de jóvenes araos en California, así como de los huevos y polluelos de garcillas bueyeras y garzas blancas en Baja California, México. 
 
-Anterior <{filename}article3.md>
+[Anterior]({filename}article3.md)
 
-Inicio <{filename}inicio.md>
+[Inicio]({filename}inicio.md)

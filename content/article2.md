@@ -16,7 +16,7 @@ Habitan principalmente en las regiones cálidas, aunque su zona de reproducción
 
 Aves de aguas interiores y costeras, están ausentes de las regiones polares, mar abierto, islas oceánicas (excepto las Galápagos) y el interior de América del Sur y su costa oriental, desde la desembocadura del río Amazonas hacia el sur. Se han recuperado huesos de subfósiles tan meridionales como la isla Sur de Nueva Zelanda,​ aunque su escasez y su aparición aislada sugieren que estos restos pueden haber sido de individuos aislados que llegaron desde Australia (como todavía ocurre en ocasiones en la actualidad).​ 
 
-Anterior <{filename}article2.md>
-Siguiente <{filename}article3.md>
+[Anterior]({filename}article2.md)
+[Siguiente]({filename}article3.md)
 
-Inicio <{filename}inicio.md>
+[Inicio]({filename}inicio.md)

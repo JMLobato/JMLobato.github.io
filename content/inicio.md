@@ -15,6 +15,6 @@ Durante mucho tiempo se creyó que estaba relacionado con fragatas, cormoranes, 
 
 Su relación entre pelícanos y el hombre ha sido a menudo conflictiva. Han sido perseguidos porque se percibían como una competencia para la pesca comercial y recreativa. Sus poblaciones han disminuido considerablemente a causa de la destrucción de su hábitat, la sobrepesca y la perturbación y la contaminación ambiental, llevando a una especie a ser catalogada como vulnerable y a dos a estar cercanas a serlo. También tienen una larga historia de significado cultural en la mitología y en la iconografía y heráldica cristiana. 
 
-* Descripción <{filename}article1.md>
-* Distribución y habitat <{filename}article2.md>
-* Conservación <{filename}article3.md>
+* [Descripción]({filename}article1.md)
+* [Distribución y habitat]({filename}article2.md)
+* [Conservación]({filename}article3.md)
